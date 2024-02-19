@@ -1,6 +1,9 @@
 body{
     background: #67BE4B;
    }
+   header{
+    text-align: center;
+   }
    #container{
     width:400px;
     margin:0 auto;
@@ -44,4 +47,9 @@ body{
     background-color: white;
     color: #53af57;
     border: 1px solid #53af57;
+   }
+    
+   body{
+    background: url("../asset/olav-ahrens-rotne-MAEbdaFe4ps-unsplash.jpg") no-repeat fixed center center/cover;
+
    }
